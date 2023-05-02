@@ -1,0 +1,13 @@
+{
+    "Activities":
+    [
+        {"ActivityCategory":"Active","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=nGaXj3kkmrU"},
+        {"ActivityCategory":"Active","ActivityName":"Walk","ActivityDesc":"If the conditions permit, take a walk around nature.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261"},
+        {"ActivityCategory":"Healthy","ActivityName":"Cook","ActivityDesc":"Make a healthy snack!","ActivityLength":"10","ActivityImage":"...","ActivityWebsite":"https://www.eatingwell.com/recipes/17990/mealtimes/snacks/"},
+        {"ActivityCategory":"Healthy","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://"},
+        {"ActivityCategory":"Technical","ActivityName":"Code","ActivityDesc":"Learn a new language or a new skill, such as Swift.","ActivityLength":"45","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=bjPENR6sHRU/"},
+        {"ActivityCategory":"Technical","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://"},
+        {"ActivityCategory":"Creative","ActivityName":"Origami","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"},
+        {"ActivityCategory":"Creative","ActivityName":"Origami","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"}
+    ]
+}
