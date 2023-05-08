@@ -1,13 +1,15 @@
 {
     "Activities":
     [
-        {"ActivityCategory":"Active","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=nGaXj3kkmrU"},
-        {"ActivityCategory":"Active","ActivityName":"Walk","ActivityDesc":"If the conditions permit, take a walk around nature.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261"},
-        {"ActivityCategory":"Healthy","ActivityName":"Cook","ActivityDesc":"Make a healthy snack!","ActivityLength":"10","ActivityImage":"...","ActivityWebsite":"https://www.eatingwell.com/recipes/17990/mealtimes/snacks/"},
-        {"ActivityCategory":"Healthy","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://"},
-        {"ActivityCategory":"Technical","ActivityName":"Code","ActivityDesc":"Learn a new language or a new skill, such as Swift.","ActivityLength":"45","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=bjPENR6sHRU/"},
+        {"ActivityCategory":"Active","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5 min","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=nGaXj3kkmrU"},
+        {"ActivityCategory":"Active","ActivityName":"Walk","ActivityDesc":"If the conditions permit, take a walk around nature.","ActivityLength":"30 min","ActivityImage":"...","ActivityWebsite":"https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/walking/art-20046261"},
+        {"ActivityCategory":"Healthy","ActivityName":"Cook","ActivityDesc":"Make a healthy snack!","ActivityLength":"10 min","ActivityImage":"...","ActivityWebsite":"https://www.eatingwell.com/recipes/17990/mealtimes/snacks/"},
+        {"ActivityCategory":"Healthy","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5 min","ActivityImage":"...","ActivityWebsite":"https://"},
+        {"ActivityCategory":"Technical","ActivityName":"Code","ActivityDesc":"Learn a new language or a new skill, such as Swift.","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=bjPENR6sHRU/"},
         {"ActivityCategory":"Technical","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://"},
         {"ActivityCategory":"Creative","ActivityName":"Origami","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"},
-        {"ActivityCategory":"Creative","ActivityName":"Origami","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"}
+        {"ActivityCategory":"Creative","ActivityName":"Paint/Draw","ActivityDesc":"Release your creative mind with art.","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://www.artistsnetwork.com/free-art-instruction/"}
+        {"ActivityCategory":"Productive","ActivityName":"Write","ActivityDesc":"Tell a story or write a biography!","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://prowritingaid.com/creative-writing-tips-for-beginners"}
+        {"ActivityCategory":"Productive","ActivityName":"Learn","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"}
     ]
 }
