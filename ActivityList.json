@@ -8,7 +8,7 @@
         {"ActivityCategory":"Technical","ActivityName":"Code","ActivityDesc":"Learn a new language or a new skill, such as Swift.","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://www.youtube.com/watch?v=bjPENR6sHRU/"},
         {"ActivityCategory":"Technical","ActivityName":"Jumping Jacks","ActivityDesc":"Get your blood pumping!","ActivityLength":"5","ActivityImage":"...","ActivityWebsite":"https://"},
         {"ActivityCategory":"Creative","ActivityName":"Origami","ActivityDesc":"Learn origami using household items.","ActivityLength":"30","ActivityImage":"...","ActivityWebsite":"http://www.origami-instructions.com/"},
-        {"ActivityCategory":"Creative","ActivityName":"Paint/Draw","ActivityDesc":"Release your creative mind with art.","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://www.artistsnetwork.com/free-art-instruction/"}
+        {"ActivityCategory":"Creative","ActivityName":"Paint","ActivityDesc":"Release your creative mind with art.","ActivityLength":"45+ min","ActivityImage":"...","ActivityWebsite":"https://www.artistsnetwork.com/free-art-instruction/"}
         {"ActivityCategory":"Productive","ActivityName":"Write","ActivityDesc":"Tell a story or write a biography!","ActivityLength":"45+ min","ActivityImage":"https://","ActivityWebsite":"https://"}
         {"ActivityCategory":"Productive","ActivityName":"Clean","ActivityDesc":"Clean some things around the house.","ActivityLength":"30","ActivityImage":"https://","ActivityWebsite":"https://"}
     ]
